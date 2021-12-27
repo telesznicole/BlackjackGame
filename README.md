@@ -1,4 +1,5 @@
 # BlackjackGame
+###### Created September 2019
 
 This project implements a game of blackjack with refined rules.  The rules as described by the rubric for his project are as follows:<br>
 
