@@ -7,3 +7,8 @@ The player will be dealt one card at the start of the game (where a game is one 
 1. Player’s turn: Player tries to reach or come close to 21 without going over (as 21 is the highest hand). 2. Dealer’s turn: Dealer tries to beat exceed the player’s hand without going over 21.
 3. Determine the winner at the end of the game and increment the win count.
 4. Repeat!"</em>
+
+#### Goals:<br>
+The goals of this project were to:
+- foster gameplay logic by dissembling game rules not computer logic
+- generat computer-user gameplay dependent on random-number generation
